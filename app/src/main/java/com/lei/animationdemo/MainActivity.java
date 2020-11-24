@@ -21,8 +21,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         initView();
         AnimationManager.init(this);
         AnimationManager.addGiftContainer(giftContainer);
-
-//        animaMessage = ;
     }
 
     private void initView() {
